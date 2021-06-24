@@ -46,7 +46,7 @@ const items = [
       During the ensuing battle the Japanese suffered the loss of four carriers, one heavy cruiser and 248 aircraft, while American losses totalled one carrier, one destroyer and 98 planes. By their victory at Midway, the turning point of the Pacific war, the Americans were able to seize the strategic initiative from the Japanese, who had suffered irreplaceable losses. Admiral Nimitz described the battle’s success as “Essentially a victory of intelligence”, while President Roosevelt called it “Our most important victory in 1942… there we stopped the Japanese offensive.”`
   },
   {
-    title: "25 October 1942",
+    title: "SNOW Issue - April 1 - 4:22 PM PST",
     contentTitle: "Alamein",
     contentText: `German prisoners of war wait for transport after their capture at Alamein`,
     contentDetailedText: `The North African campaign began in September1940, and for the next two years the fighting was marked by a succession of Allied and Axis advances and retreats. In the summer of 1942, the Axis forces under ‘Desert Fox’ field marshal, Erwin Rommel, looked poised to take Cairo and advance on the Suez Canal.
@@ -55,7 +55,7 @@ const items = [
       Although Montgomery has been criticised for being too cautious in exploiting his success at Alamein, it made him a household name and he became Britain’s most popular general of the war. Churchill hailed Alamein as a “Glorious and decisive victory… the bright gleam has caught the helmets of our soldiers, and warmed and cheered all our hearts”.`
   },
   {
-    title: "February 1943",
+    title: "User Story 100123 Jira - May 15 - 8:52 AM PST",
     contentTitle: "Stalingrad",
     contentText: `Red Army soldiers hoist the Soviet flag over a recaptured Stalingrad factory following the German surrender`,
     contentDetailedText: `Throughout September and October, under General Vassili Chuikov, the city’s defenders contested every yard of ground of the devastated city.
@@ -64,7 +64,7 @@ const items = [
       `
   },
   {
-    title: "6 June 1944",
+    title: "Code Merge Attempt - June 1 - 3:21 PM PST",
     contentTitle: "D-Day, Operation Overlord",
     contentText: `British commandos of the First Special Service Brigade land on Sword Beach`,
     contentDetailedText: `Operation Overlord, the invasion and liberation of north-west Europe, began on D-Day, 6 June 1944.
@@ -73,14 +73,14 @@ const items = [
       It was not until 4 May 1945 that the German forces in north-west Europe surrendered to Montgomery at his HQ on Lüneburg Heath.`
   },
   {
-    title: "Application Build - 4 June - 12:07 PM PST",
+    title: "Application Build - June 4 - 12:07 PM PST",
     contentTitle: "Application Build",
     contentText: `Build Success - 12 mins `,
     contentDetailedText: `Testing Results from Parsed Build Logs
                         Benchmarking and Detla status bars and charts`
   },
   {
-    title: "13/14 February 1945",
+    title: "QA Deployment - June 4 - 1:01 PM PST",
     contentTitle: "Dresden",
     contentText: `Dresden under incendiary bomb attack`,
     contentDetailedText: `At Yalta, an Allied plan to bomb the hitherto untouched city of Dresden was discussed. The reason for attacking the city was due principally to its strategic importance as a communications centre in the rear of the German retreat that followed the Soviet winter offensive of January 1945. It was also believed that Dresden might be used as an alternative to Berlin as the Reich capital.
@@ -88,7 +88,7 @@ const items = [
       Now, on the night of 13/14 February 1945, Dresden was attacked by 800 RAF bombers, followed by 400 bombers of the United States Army Air Force. The bombing created a firestorm that destroyed 1,600 acres of Dresden. Even today it is still uncertain as to how many died and estimates have ranged from 25,000 to 135,000. Most authorities now put the death toll at around 35,000. The scale of destruction, the enormous death toll, and its timing at such a late stage in the war, have all ensured that the bombing of Dresden still remains highly controversial.`
   },
   {
-    title: "8 May 1945",
+    title: "QA Approval - June 5 - 12:07 PM PST",
     contentTitle: "VE Day",
     contentText: `millions of people rejoice in the news that Germany has surrendered – the war in Europe was finally over`,
     contentDetailedText: `On the afternoon of 8 May 1945, the British prime minister Winston Churchill made the radio announcement that the world had long been waiting for.
@@ -96,7 +96,7 @@ const items = [
       After nearly six years, the war in Europe was finally over.`
   },
   {
-    title: "9 August 1945",
+    title: "CAB Approval - June 24 - 9:32 AM PST",
     contentTitle: "Nagasaki",
     contentText: `Atomic bomb mushroom cloud over the Japanese city of Nagasaki`,
     contentDetailedText: `The Second World War began at dawn on Friday 1 September 1939, when Adolf Hitler launched his invasion of Poland.
